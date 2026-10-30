@@ -9,11 +9,11 @@ South Park (N64) running natively on the Meta Quest 3, in VR: look around with y
 ## Features
 
 - **60 FPS:** smooth in-between pictures on top of the game's own frames.
-- **Three cameras, your choice** (pick one in the start window, or click the **left stick** in game to switch; the new camera's name pops up in red):
-  - **Head aim:** look around with the headset; the game's camera and your snowballs follow your head.
+- **Two cameras, your choice** (pick one in the start window, or click the **right stick** in game to switch; the new camera's name pops up in red):
+  - **Head aim:** look around with the headset; the game's camera and your snowballs follow your head. Smooth, with no black edges when you turn.
   - **Wrap-around:** a big curved screen that stays in the room; turn with the right stick.
-  - **Follow:** a wrap-around screen that moves with your head (kept level when you tilt), with the camera following your head.
-- **Floating HUD:** health and ammo on a panel in front of you, with outlines you can turn on or off (right stick click).
+- **Floating HUD:** health and ammo on a panel in front of you.
+- **Straight to the title:** the intro screens are skipped.
 - **Smooth turning** with the right stick.
 - **Online co-op (BETA):** play story mode with a friend, each on their own Quest, with a 4-digit room code. You can't pick each other up, and the boys you two play as are left out of the level, so there are no doubles.
 - **Plug and play:** pick your ROM (any file name) in the start window and play.
@@ -36,8 +36,7 @@ South Park (N64) running natively on the Meta Quest 3, in VR: look around with y
 | Right trigger | Throw |
 | Y | L |
 | Left menu button | Start / pause |
-| Left stick click | Switch the screen (head aim / wrap-around / follow) |
-| Right stick click | HUD outlines on / off |
+| Right stick click | Switch the camera (head aim / wrap-around) |
 
 Tip: turn on **Options > Crosshairs** to see where your snowballs go.
 
