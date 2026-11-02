@@ -6,6 +6,8 @@ South Park (N64) running natively on the Meta Quest 3, in VR: look around with y
 
 <img alt="South Park VR" src="banner.jpg" />
 
+<img width="800" alt="Gameplay" src="gameplay.webp" />
+
 ## Features
 
 - **60 FPS:** smooth in-between pictures on top of the game's own frames.
