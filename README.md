@@ -20,6 +20,12 @@ South Park (N64) running natively on the Meta Quest 3, in VR: look around with y
 - **Online co-op (BETA):** play story mode with a friend, each on their own Quest, with a 4-digit room code. You can't pick each other up, and the boys you two play as are left out of the level, so there are no doubles.
 - **Plug and play:** pick your ROM (any file name) in the start window and play.
 
+## Known bugs
+
+- Some polygons flicker or disappear in a few spots (for example near Jimbo's).
+- Online co-op is in BETA: expect some lag and rough edges.
+- The wrap-around screen looks softer than head aim.
+
 ## Install
 
 1. Download the APK from the [Releases](../../releases) page.
