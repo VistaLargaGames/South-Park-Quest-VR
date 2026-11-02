@@ -52,6 +52,9 @@ Players find each other through a small free Cloudflare Worker relay. Only game 
 
 - First release.
 
+- KNOWN BUGS:
+geometry flickers every now and then
+
 ## Credits
 
 Built on [N64Recomp](https://github.com/N64Recomp/N64Recomp), [N64ModernRuntime](https://github.com/N64Recomp/N64ModernRuntime) and [RT64](https://github.com/rt64/rt64). South Park is a trademark of its owners; this is an unofficial fan project.
